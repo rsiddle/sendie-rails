@@ -1,0 +1,5 @@
+= TODO
+* Everything
+
+{Based on sendgrid-rails}[https://github.com/PavelTyk/sendgrid-rails]
+
